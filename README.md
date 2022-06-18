@@ -8,5 +8,6 @@ It's built in python using following libraries:
 # Usage:
 Enter the target URL on line no. 5 and start the bot.
 
-Thanks & Regards
-TalhaPythoneer
+Let me know in case of any issues or queries.<br />
+Thanks & Regards<br />
+[TalhaPythoneer](https://www.talhapythoneer.com/)
